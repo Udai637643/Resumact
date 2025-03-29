@@ -3,4 +3,5 @@ This is react resume builder made by Arman Kazi for Hack-R-Play Hackathon organi
 # Link
 [https://resumact.vercel.app/](https://resumact.vercel.app/)
 # Screenshots
-![screencapture-localhost-3000-2022-10-16-23_56_02](https://user-images.githubusercontent.com/104687128/196051871-03e088db-0066-4cd4-a3e5-db7254d25f09.png)
+![image](https://github.com/user-attachments/assets/a668ca82-b7bd-4a78-82ab-3f809a1b4d09)
+
